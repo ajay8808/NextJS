@@ -1,4 +1,4 @@
-export default function Footer({children}){
+export default function Footer({children}:any){
   return(
     <>
 <footer className="text-gray-600 body-font">

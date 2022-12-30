@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="430596f5-08bd-4b6e-ab7d-f0bd5bb0ebbb" name="Changes" comment="기본 라우터 설정">
+      <change afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/fetch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/projects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J4dg8FDZDsUq38eetdLjQGHaLC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/workspace/새 폴더/pages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "E:\\workspace\\새 폴더\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\새 폴더\pages" />
+      <recent name="E:\workspace\새 폴더\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\새 폴더" />
+      <recent name="E:\workspace\새 폴더\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430596f5-08bd-4b6e-ab7d-f0bd5bb0ebbb" name="Changes" comment="" />
+      <created>1671341397612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671341397612</updated>
+      <workItem from="1671341400008" duration="5330000" />
+      <workItem from="1672398684913" duration="487000" />
+      <workItem from="1672399216525" duration="911000" />
+      <workItem from="1672400155230" duration="5702000" />
+    </task>
+    <task id="LOCAL-00001" summary="기본 라우터 설정">
+      <created>1671367851737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671367851737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="기본 라우터 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="기본 라우터 설정" />
+  </component>
+</project>
