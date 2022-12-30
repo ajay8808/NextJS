@@ -1,3 +1,5 @@
+import Animation from "./animation";
+
 export default function name(params) {
   return(
     <>
@@ -12,7 +14,7 @@ export default function name(params) {
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-     
+     <Animation/>
     </div>
 
     </>
