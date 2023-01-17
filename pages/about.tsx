@@ -3,7 +3,7 @@
 export default function About() {
     return (
         <div >  
-        Abouttete
+        Abouttetetete
         </div>
     )
 }
